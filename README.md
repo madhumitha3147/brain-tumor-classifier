@@ -40,10 +40,11 @@ This project aims to classify brain tumors using deep learning techniques on MRI
 
 ---
 
-## 🧪 Sample Prediction Output
+## 🧪 Sample Prediction Outputs
 
-![Sample prediction](path-to-your-bar-chart.png)
-
+![Sample prediction]("C:/Users/ADMIN/Downloads/prediction.png")
+![Sample Accuracy]("C:/Users/ADMIN/Downloads/Accuracy.png")
+![Sample Loss]("C:/Users/ADMIN/Downloads/Loss.png")
 ---
 
 ## 🛠️ Technologies Used
@@ -67,9 +68,9 @@ This project aims to classify brain tumors using deep learning techniques on MRI
 
 ## 👤 Author
 
-**Your Name Here**  
+Madhumitha 
 AI Minor Project | Artificial Intelligence with Python  
-GitHub: [@madhumitha3147](https://github.com/madhumitha3147)
+GitHub: [@madhumitha3147]([https://github.com/madhumitha3147](https://github.com/madhumitha3147))
 
 
 
