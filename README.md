@@ -40,12 +40,6 @@ This project aims to classify brain tumors using deep learning techniques on MRI
 
 ---
 
-## 🧪 Sample Prediction Outputs
-
-![Sample prediction]("C:/Users/ADMIN/Downloads/prediction.png")
-![Sample Accuracy]("C:/Users/ADMIN/Downloads/Accuracy.png")
-![Sample Loss]("C:/Users/ADMIN/Downloads/Loss.png")
----
 
 ## 🛠️ Technologies Used
 
